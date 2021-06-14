@@ -1,6 +1,6 @@
 body{
   background-color: black;
-  color: black;
+  color:black ;
   background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,13 +12,13 @@ body{
   margin-top: 170px;
 }
 .tabs{
-  float: right;
-  margin-bottom: 0px ;
+  float: left;
+  margin-top: 70pxgit;
   display: block;
   border-spacing: 20px;
   text-align: right;
   font-size: 300%;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:;
   font-style: oblique;
   border-color: white;
   border-radius: 10px;
@@ -78,4 +78,16 @@ span a:hover{
 .info{
   color: white;
   font-weight: bolder;
+}
+.head{
+  text-align: center;
+}
+.enter{
+  text-align: center;
+  background-image: url(ghana-wallpaper.jpg);
+  height: ;
+}
+.card{
+  background-image: url(ghana-wallpaper.jpg);
+  object-fit: cover;
 }
