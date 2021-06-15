@@ -85,9 +85,13 @@ span a:hover{
 .enter{
   text-align: center;
   background-image: url(ghana-wallpaper.jpg);
-  height: ;
+  background-size: cover;
+  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+  /* height: 100%; */
 }
 .card{
   background-image: url(ghana-wallpaper.jpg);
-  object-fit: cover;
+  
 }
