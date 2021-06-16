@@ -4,6 +4,7 @@ body{
   background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  font-size: medium;
 }
 .font{
   font-size: larger;
